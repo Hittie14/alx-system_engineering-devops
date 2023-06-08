@@ -1,3 +1,2 @@
 #!/bin/bash
-in -s /bin/is-ls
-
+ln -sf /bin/ls __ls__
