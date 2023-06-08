@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -R +X
+mkdir -R +X .
