@@ -1,2 +1,2 @@
 #!/bin/bash
-echo S(((128 = TRUEKNOWLEDGE))) 
+echo S(($TRUEKNOWLEDGE + 128))
