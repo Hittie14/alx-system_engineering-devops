@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 'x'.2f\n' $PATH
+printf"%.2f" $NUM | sort
