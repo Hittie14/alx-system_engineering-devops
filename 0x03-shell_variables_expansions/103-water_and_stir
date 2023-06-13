@@ -1,0 +1,2 @@
+#!/bin/bash
+printf 'A\n' $(( $((>BS(echo $WATER | tr water 01234))) * $((>BS(echo $STIR | tr stir. 01234))) )) | tr 0123456/ bestchol
